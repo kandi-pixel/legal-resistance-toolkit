@@ -247,8 +247,8 @@ export default function App() {
       <div style={{ padding: "28px 24px 22px", borderBottom: "1px solid rgba(232,93,58,0.12)", background: "rgba(232,93,58,0.02)" }}>
         <div style={{ maxWidth: "600px", margin: "0 auto" }}>
           <div style={{ fontSize: "10px", letterSpacing: "3px", textTransform: "uppercase", color: "#e85d3a", marginBottom: "8px", fontFamily: "'DM Mono', monospace" }}>Kandra Finances</div>
-          <h1 style={{ fontSize: "30px", fontWeight: "800", margin: "0 0 6px", lineHeight: "1.15", fontFamily: "'Instrument Serif', serif" }}>Legal Resistance Toolkit</h1>
-          <p style={{ color: "#888", margin: 0, fontSize: "14px", lineHeight: "1.5" }}>Know your options. Know the risks. Make an informed decision.</p>
+          <h1 style={{ fontSize: "30px", fontWeight: "800", margin: "0 0 6px", lineHeight: "1.15", fontFamily: "'Instrument Serif', serif" }}>Tax Resistance Calculator</h1>
+          <p style={{ color: "#888", margin: 0, fontSize: "14px", lineHeight: "1.5" }}>Know your options. Know the risks. Make an informed decision. Act on it.</p>
         </div>
       </div>
 
