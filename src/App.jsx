@@ -242,8 +242,6 @@ export default function App() {
       background: "linear-gradient(170deg, #0a0a0a 0%, #130e0e 50%, #0a0a0a 100%)",
       color: "#f0ece4", fontFamily: "'Syne', sans-serif",
     }}>
-      <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:wght@400;500&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet" />
-
       <div style={{ padding: "28px 24px 22px", borderBottom: "1px solid rgba(232,93,58,0.12)", background: "rgba(232,93,58,0.02)" }}>
         <div style={{ maxWidth: "600px", margin: "0 auto" }}>
           <div style={{ fontSize: "10px", letterSpacing: "3px", textTransform: "uppercase", color: "#e85d3a", marginBottom: "8px", fontFamily: "'DM Mono', monospace" }}>Kandra Finances</div>
